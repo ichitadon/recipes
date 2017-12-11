@@ -1,0 +1,6 @@
+= ichitadon's recipes
+:toc:
+:toclevels: 1
+:pagenums:
+
+include::HayashiRice.adoc[]

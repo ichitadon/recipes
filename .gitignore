@@ -1,0 +1,3 @@
+# ignore html/pdf
+dist/*.html
+dist/*.pdf
