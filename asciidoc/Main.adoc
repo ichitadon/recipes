@@ -6,3 +6,7 @@
 include::HayashiRice.adoc[]
 
 include::PorkFriedRice.adoc[]
+
+include::ChineseCabbageTonkotsuSoup.adoc[]
+
+include::TofuNattoHamburgSteak.adoc[]
