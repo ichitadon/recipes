@@ -9,4 +9,4 @@ include::PorkFriedRice.adoc[]
 
 include::ChineseCabbageTonkotsuSoup.adoc[]
 
-include::TofuNattoHamburgSteak.adoc[]
+include::NattoTofuHamburgSteak.adoc[]
