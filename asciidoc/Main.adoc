@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::GrilledPork.adoc[]
+
 include::HayashiRice.adoc[]
 
 include::PorkFriedRice.adoc[]
