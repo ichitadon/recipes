@@ -10,3 +10,5 @@ include::PorkFriedRice.adoc[]
 include::ChineseCabbageTonkotsuSoup.adoc[]
 
 include::NattoTofuHamburgSteak.adoc[]
+
+include::SoftBoiledEggCabbageSalad.adoc[]
