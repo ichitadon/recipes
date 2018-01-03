@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::MisoCheeseSandToastOfDeepFriedTofu.adoc[]
+
 include::ChickenWingStickRoast.adoc[]
 
 include::NonBakeCheeseCake.adoc[]
