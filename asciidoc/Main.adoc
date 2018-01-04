@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::YellowtailWithSesameDressing.adoc[]
+
 include::CodMuniel.adoc[]
 
 include::MisoCheeseSandToastOfDeepFriedTofu.adoc[]
