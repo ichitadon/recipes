@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::RiceCookedWithCarrotAndShimeji.adoc[]
+
 include::BraisedChickenWing.adoc[]
 
 include::YellowtailWithSesameDressing.adoc[]
