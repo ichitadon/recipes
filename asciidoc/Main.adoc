@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::SeasonedGreenPepperAndTuna.adoc[]
+
 include::KinpiraBurdock.adoc[]
 
 include::KinpiraJapaneseLotusRoot.adoc[]
