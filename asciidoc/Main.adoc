@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::KinpiraBurdock.adoc[]
+
 include::KinpiraJapaneseLotusRoot.adoc[]
 
 include::RiceCookedWithCarrotAndShimeji.adoc[]
