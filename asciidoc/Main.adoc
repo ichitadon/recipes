@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::BeanSproutWithSesameDressing.adoc[]
+
 include::SeasonedGreenPepperAndTuna.adoc[]
 
 include::KinpiraBurdock.adoc[]
