@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::SeasonedBeanSproutsAndTuna.adoc[]
+
 include::PastaWithTomatoAndGarlicSource.adoc[]
 
 include::BeanSproutWithSesameDressing.adoc[]
