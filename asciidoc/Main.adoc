@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::SoftBoiledEggs.adoc[]
+
 include::BoiledSeasonedOkra.adoc[]
 
 include::SeasonedBeanSproutsAndTuna.adoc[]
