@@ -3,6 +3,8 @@
 :toclevels: 1
 :pagenums:
 
+include::BoiledSeasonedKomatsunaAndCarrot.adoc[]
+
 include::CookedChineseCabbageAndFriedTofu.adoc[]
 
 include::BoiledEggsSeasoning.adoc[]
