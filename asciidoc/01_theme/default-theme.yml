@@ -18,8 +18,8 @@ font:
       bold: mplus1p-regular-fallback.ttf
       italic: mplus1p-regular-fallback.ttf
       bold_italic: mplus1p-regular-fallback.ttf
-    fallbacks:
-    - M+ 1p Fallback
+  fallbacks:
+  - M+ 1p Fallback
 page:
   background_color: FFFFFF
   layout: portrait
