@@ -9,7 +9,7 @@ before_install:
 
 script:
   - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-html asciidoctor/docker-asciidoctor asciidoctor -o /documents/output/index.html asciidoc/Main.adoc
-  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-pdf asciidoctor/docker-asciidoctor asciidoctor-pdf -o /documents/output/recipes.pdf asciidoc/Main.adoc
+  - docker run -v $TRAVIS_BUILD_DIR:/documents/ --name asciidoc-to-pdf asciidoctor/docker-asciidoctor asciidoctor-pdf -o /documents/output/recipes.pdf -a pdf-style=asciidoc/01_theme/default-theme.yml asciidoc/Main.adoc
 
 after_error:
   - docker logs asciidoc-to-html
